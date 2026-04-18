@@ -44,8 +44,8 @@ Conseguir uma oportunidade como **estagiário em desenvolvimento**, onde eu poss
 
 ## 📫 Como me encontrar
 
-- 💼 LinkedIn: (coloca seu link aqui)
-- 📧 Email: (se quiser colocar)
+- 💼 LinkedIn: Rychard Salles
+- 📧 Email: rychardsilva205@gmail.com
 
 ---
 
@@ -54,17 +54,4 @@ Conseguir uma oportunidade como **estagiário em desenvolvimento**, onde eu poss
 Sempre buscando melhorar não só como dev, mas também como pessoa — disciplina e consistência fazem parte do meu dia a dia 💪
 
 ---
-<!--
-**RychardSalles/RychardSalles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
