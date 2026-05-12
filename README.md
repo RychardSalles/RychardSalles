@@ -28,15 +28,6 @@
 
 ---
 
-### 📌 Atualmente estudando
-- Spring Boot
-- APIs REST
-- SQL
-- Estruturas de Dados
-- Git & GitHub
-
----
-
 ### 📫 Como me encontrar
 - 💼 **LinkedIn:** www.linkedin.com/in/rychardsalles
 - 💻 **GitHub:** github.com/rychardsalles
